@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+client_secret.json
+credentials.json
+build
+aws_scripts.egg-info
+dist
